@@ -1,0 +1,44 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Страница — 1" id="ONVXKiCkuZKggo0Yz8iK">
+    <mxGraphModel dx="1050" dy="1021" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="E8ghFHOedoEv-c-FOVhH-1" value="Насекомые" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="320" y="30" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E8ghFHOedoEv-c-FOVhH-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1" source="E8ghFHOedoEv-c-FOVhH-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E8ghFHOedoEv-c-FOVhH-3" value="Бескрылые" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="210" y="270" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E8ghFHOedoEv-c-FOVhH-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=block;endFill=0;strokeWidth=2;" edge="1" parent="1" source="E8ghFHOedoEv-c-FOVhH-4" target="E8ghFHOedoEv-c-FOVhH-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="180" />
+              <mxPoint x="400" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E8ghFHOedoEv-c-FOVhH-4" value="Крылатые" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="440" y="270" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E8ghFHOedoEv-c-FOVhH-10" value="1. Шесть лап&lt;div style=&quot;font-size: 18px;&quot;&gt;2. Есть брюшко&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;--------------------------&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;1. Звук&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;2. Передвижение&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;===============&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;1. Есть&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;2. Видеть&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="520" y="45" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E8ghFHOedoEv-c-FOVhH-14" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;1. Жужжат&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;2. Летают&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;===============&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;1. Опыление&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;2. Размножение в воде&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="620" y="280" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E8ghFHOedoEv-c-FOVhH-15" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;1. Пищат&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;2. Ползают&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;===============&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;1. Плетение паутины&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. Охота в почве&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="40" y="285" width="160" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
